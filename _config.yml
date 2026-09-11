@@ -1,0 +1,27 @@
+# ---------------------------------------------------------------
+# Site settings — edit these and the site rebuilds automatically.
+# ---------------------------------------------------------------
+title: Aileen Nielsen
+description: Assistant Professor of Law, University of Massachusetts School of Law
+author: Aileen Nielsen
+email: anielsen@umassd.edu
+
+# Do not change these two lines; GitHub Pages needs them.
+theme: minima
+markdown: kramdown
+
+# Order of the links in the top navigation bar.
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - teaching.md
+  - cv.md
+
+minima:
+  skin: classic
+
+# Files GitHub should ignore when building.
+exclude:
+  - README.md
+  - SETUP_STEPS.md

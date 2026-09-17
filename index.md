@@ -7,7 +7,7 @@ permalink: /
 ### Upcoming
 
 - **September 2026, Talk:** *AI & the Individual: Consumers and Citizens*, Harris School of Public Policy, University of Chicago
-- **October 2026, Talk:** [Conference on Empirical Legal Studies (CELS)](https://www.law.northwestern.edu/research-faculty/events/conferences/cels-2026/), Northwestern Pritzker School of Law, Chicago
+- **October 2026, Poster:** [Conference on Empirical Legal Studies (CELS)](https://www.law.northwestern.edu/research-faculty/events/conferences/cels-2026/), Northwestern Pritzker School of Law, Chicago
 - **November 2026, Talk:** [Ninth Junior Faculty Forum on Law and STEM](https://conferences.law.stanford.edu/stanford_jff2026/), Stanford Law School
 - **November 2026, Talk:** [Research Roundtable on Fraudulent and Abusive Litigation Coordination Tactics and Offensive Claims to Combat Them](https://masonlec.org/), Law & Economics Center, George Mason University, Chicago
 - **November 2026, Talk:** *Corporate Involvement in Domestic Surveillance*, Albany Law School symposium, Albany, NY

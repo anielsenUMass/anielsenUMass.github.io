@@ -22,7 +22,7 @@ Working papers and drafts are on my [SSRN author page](https://ssrn.com/author=3
 - Aileen Nielsen, *The Rights and Wrongs of Folk Beliefs About Speech: Implications for Content Moderation*, 27 UCLA J.L. & Tech. 118 (2022). [[link]](https://uclajolt.com/the-rights-and-wrongs-of-folk-beliefs-about-speech-implications-for-content-moderation/)
 
 ### Refereed Publications
-
+- Alessandro Tacconelli, Jakob Merane, Aileen Nielsen, Kevin Tobia, Björn Hackanson & Alexander Stremitzer, *How Following Medical Artificial Intelligence Advice Can Mitigate Malpractice Liability: Cross-National Insights from a Randomized Trial*, J. Nuclear Med. (2026). [[link]](https://jnm.snmjournals.org/content/early/2026/06/04/jnumed.126.272292)
 - Aileen Nielsen, *AI's Categorical Fairness*, 5 Am. J.L. & Equality 89 (2025). [[link]](https://direct.mit.edu/ajle/article/doi/10.1162/AJLE.a.5/134266/AI-S-CATEGORICAL-FAIRNESS)
 - Aileen Nielsen, *Algorithms in the Privacy Torts*, J. Tort L. (2025). [[link]](https://www.degruyterbrill.com/document/doi/10.1515/jtl-2025-0017/html)
 - Aileen Nielsen, Stavroula Skylaki, Milda Norkute & Alexander Stremitzer, *Building a Better Lawyer: Experimental Evidence that AI Can Increase Legal Work Efficiency*, J. Empirical Legal Stud. (2024). [[link]](https://onlinelibrary.wiley.com/doi/10.1111/jels.12396)

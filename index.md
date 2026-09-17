@@ -15,7 +15,7 @@ permalink: /
 
 ### Recent
 
-- Article published in the *Journal of Nuclear Medicine* — September 2026
+- [*How Following Medical Artificial Intelligence Advice Can Mitigate Malpractice Liability: Cross-National Insights from a Randomized Trial*](https://jnm.snmjournals.org/content/early/2026/06/04/jnumed.126.272292), *Journal of Nuclear Medicine* — September 2026
 - AI for Law Scholars conference, Northwestern Pritzker School of Law, Chicago — August 2026
 - WISE Connect talk on ageism and AI — August 2026
 - Joined the University of Massachusetts School of Law as Assistant Professor — July 2026
